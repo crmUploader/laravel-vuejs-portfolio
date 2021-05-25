@@ -7,7 +7,8 @@ composer install
 
 npm install
 
-Connect Database in .env file
+
+Rename the .env.example to .env and connect the database
 
 after connect database run 
 
@@ -20,3 +21,5 @@ php artisan cache:clear
 composer dump-autoload
 
 url: http://localhost/project/public/
+
+boom!
