@@ -15,7 +15,9 @@ after connect database run
 php artisan migrate:fresh --seed
 
 php artisan config:cache
+
 php artisan view:clear
+
 php artisan cache:clear
 
 composer dump-autoload
