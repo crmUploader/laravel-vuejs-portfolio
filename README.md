@@ -3,6 +3,10 @@
 
 Download and set in htdocs directory
 
+composer install
+
+npm install
+
 Connect Database in .env file
 
 after connect database run 
