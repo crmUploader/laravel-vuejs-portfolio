@@ -9,6 +9,8 @@ After setting node and composer
 
 Download the code and set in htdocs directory
 
+install composer and node in your project directory:
+
 composer install
 
 npm install
