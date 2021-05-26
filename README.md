@@ -1,12 +1,17 @@
 
 ## Simple Laravel and Vuejs Portfolio
 
-Download and set in htdocs directory
+Download and Set Node https://nodejs.org/en/
+
+Set composer https://getcomposer.org/
+
+After setting node and composer 
+
+Download the code and set in htdocs directory
 
 composer install
 
 npm install
-
 
 Rename the .env.example to .env and connect the database
 
